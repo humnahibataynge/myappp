@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Go to Youtube from here gi
+          Go to Youtube from here 
         </a>
         <a
           className="App-link"
