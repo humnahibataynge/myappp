@@ -7,16 +7,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <h1>Hi guys, My name is bhawana saini.</h1>
+          Chinu bhai padh le, ye match me kuch nahi rakha..
         </p>
         
         <a
           className="App-link"
-          href="https://www.instagram.com/bhawana_aaludiya/"
+          href="https://www.youtube.com/watch?v=Exk4AC6Aad0&ab_channel=MahatmajiTechnical"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Go to My Instagram
+          Ye dekh le, match ke bajay.
         </a>
       </header>
     </div>
