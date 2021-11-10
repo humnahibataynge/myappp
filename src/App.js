@@ -7,23 +7,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <h1>Hi guys, This is my first app.</h1>
+          <h1>Hi guys, My name is bhawana saini.</h1>
         </p>
+        
         <a
           className="App-link"
-          href="https://youtube.com"
+          href="https://www.instagram.com/bhawana_aaludiya/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Go to Youtube from here.
-        </a>
-        <a
-          className="App-link"
-          href="https://dev.azure.com/umeshsainiggwp0733"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Go to Azure 
+          Go to My Instagram
         </a>
       </header>
     </div>
