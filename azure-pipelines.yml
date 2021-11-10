@@ -7,8 +7,7 @@ trigger:
 - master
 
 pool: Ubuntuagent
-  vmImage: vmforubuntu
-
+  
 steps:
 - task: NodeTool@0
   inputs:
