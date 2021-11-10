@@ -40,4 +40,4 @@ steps:
     azureSubscription: 'usaini (ebaa713e-506e-4a7a-a2fd-e1454428bc1a)'
     appType: 'webApp'
     WebAppName: 'reactjs'
-    packageForLinux: '$(System.DefaultWorkingDirectory)/**/drop'
+    packageForLinux: 'drop'
