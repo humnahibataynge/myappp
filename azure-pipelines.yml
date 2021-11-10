@@ -33,10 +33,11 @@ steps:
     publishLocation: 'Container'
   displayName: 'Publishing artifacts'
 
+
 - task: AzureRmWebAppDeployment@4
   inputs:
     ConnectionType: 'AzureRM'
     azureSubscription: 'usaini (ebaa713e-506e-4a7a-a2fd-e1454428bc1a)'
     appType: 'webApp'
     WebAppName: 'reactjs'
-    packageForLinux: '$(System.DefaultWorkingDirectory)/_ReactBased-CI/drop'
+    packageForLinux: '$(System.DefaultWorkingDirectory)/**/drop'
