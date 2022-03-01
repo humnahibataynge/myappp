@@ -8,7 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Chinu bhai padh le, ye match me kuch nahi rakha..
-        </p>
+		samjha?       
+ </p>
         
         <a
           className="App-link"
